@@ -1,7 +1,4 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 import java.time.LocalDate;
 

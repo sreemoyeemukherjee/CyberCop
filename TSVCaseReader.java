@@ -1,7 +1,4 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -13,7 +10,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 
 /**TSVCaseReader class reads the TSV file and stores all the cases in a list
- * @author Name: Sreemoyee Mukherjee, Andrew ID: sreemoym
+ * @author Name: Sreemoyee Mukherjee
  */
 public class TSVCaseReader extends CaseReader {
 

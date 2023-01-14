@@ -1,10 +1,7 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 /**CaseReaderFactory class creates CSV or TSV object as needed by checking the file extension
- * @author Name: Sreemoyee Mukherjee, Andrew ID: sreemoym
+ * @author Name: Sreemoyee Mukherjee
  */
 public class CaseReaderFactory {
 

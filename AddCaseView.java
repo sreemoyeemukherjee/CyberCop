@@ -1,7 +1,4 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 import java.time.LocalDate;
 
@@ -9,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**AddCaseView class builds the GUI for adding a case
- * @author Name: Sreemoyee Mukherjee, Andrew ID: sreemoym
+ * @author Name: Sreemoyee Mukherjee
  */
 public class AddCaseView extends CaseView{
 

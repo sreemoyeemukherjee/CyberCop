@@ -1,7 +1,4 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 import java.io.File;
 import java.net.URL;
@@ -23,7 +20,7 @@ import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
 /**CyberCop class is the main entry into the application
- * @author Name: Sreemoyee Mukherjee, Andrew ID: sreemoym
+ * @author Name: Sreemoyee Mukherjee
  */
 public class CyberCop extends Application{
 

@@ -1,7 +1,4 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -16,7 +13,7 @@ import javafx.collections.ObservableList;
 import javafx.collections.ObservableMap;
 
 /**CCModel class stores the backend data manipulation functions
- * @author Name: Sreemoyee Mukherjee, Andrew ID: sreemoym
+ * @author Name: Sreemoyee Mukherjee
  */
 public class CCModel {
 	ObservableList<Case> caseList = FXCollections.observableArrayList(); 			//a list of case objects

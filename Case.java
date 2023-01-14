@@ -1,13 +1,10 @@
-// Name: Sreemoyee Mukherjee
-// Andrew ID: sreemoym
-
-package hw3;
+package cyberCopApplication;
 
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
 /**Case class creates all the properties of case to store and interpret each row of data file as a Case
- * @author Name: Sreemoyee Mukherjee, Andrew ID: sreemoym
+ * @author Name: Sreemoyee Mukherjee
  */
 public class Case implements Comparable<Case>{
 	private StringProperty caseDate = new SimpleStringProperty();
